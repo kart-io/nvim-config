@@ -33,3 +33,4 @@ vim.fn['vundle#end']()
 
 
 require("plugins.nerdtree").config()
+require("plugins.golang").config()
